@@ -1,4 +1,4 @@
-print("\n [ zeom was here ] \n~~~~~~~~~~~~~~~~~~~~~~~~~~\DoubleClick Left Control to unhide UI.\nDoubleClick Left Alt to disable all cheats.\nHold Right Click to enable aimbot.\nDM @pubertism on discord if you find any bugs.")
+print("\n [ zeom was here ] \n~~~~~~~~~~~~~~~~~~~~~~~~~~\nDoubleClick Left Control to unhide UI.\nDoubleClick Left Alt to disable all cheats.\nHold Right Click to enable aimbot.\nDM @pubertism on discord if you find any bugs.")
 
 local ZeomenalUI = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
