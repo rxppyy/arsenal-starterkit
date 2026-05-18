@@ -1,3 +1,3 @@
-# just a basic cheat ui for arsenal
+# a basic cheat ui for arsenal
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-contians: aimbot, studs distance calculator, name viewer, highlighter
+contains: aimbot, studs distance calculator, name viewer, highlighter
