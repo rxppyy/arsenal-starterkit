@@ -8,7 +8,7 @@ currently contains:
 - name ui
 - highlighting ( CURRENTLY DOESN'T WORK )
 
-* mostly a prototype *
+*mostly a prototype*
   > will update when I can
 
 ## Info
