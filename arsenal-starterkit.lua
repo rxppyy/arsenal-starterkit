@@ -1,4 +1,4 @@
-print(" [ zeom was here ] \n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nClick Left Control to unhide UI.\nClick Left Alt to disable all cheats.\nDM @pubertism on discord if you find any bugs.")
+print(" [ zeom was here ] \n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nClick Left Control to unhide UI.\nClick Left Alt to disable all cheats.\nDM @pubertism on discord if you find any bugs.\n\n( HIGHLIGHT MIGHT NOT WORK )")
 
 local ZeomenalUI = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
